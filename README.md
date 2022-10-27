@@ -1,2 +1,5 @@
-# Leet_code
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+<h1>⭐ LeetCode Solutions ⭐<h1>
+My profile on <a href="https://leetcode.com/sudhakaranv17">LeetCode</a><br>
+This is a collection of my Leetcode solutions for PROGRAMMING SKILL-1.<br>
+I like to document my practice sessions for future references.<br>
+Give the repo a star ⭐ for further appreciation.
